@@ -8,8 +8,7 @@ do not want to commit (such as "debugger" statements).
 It is inspired by the mercurial extension
 [hgcodesmell](https://bitbucket.org/birkenfeld/hgcodesmell).
 
-The hook is written in Python and requires at least Python 2.7 or Python
-3.3.
+The hook is written in Python and requires at least Python 3.3.
 
 To install it, copy `detectcodesmells.py` to `.git/hooks/pre-commit` in your
 git repository (make sure the file is executable). If you want it to be added
