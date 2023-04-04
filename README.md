@@ -1,8 +1,6 @@
 git-codesmell
 =============
 
-[![image](https://travis-ci.org/wosc/git-codesmell.png)](https://travis-ci.org/wosc/git-codesmell)
-
 This is a git hook that checks for common mistakes that you usually
 do not want to commit (such as "debugger" statements).
 It is inspired by the mercurial extension
